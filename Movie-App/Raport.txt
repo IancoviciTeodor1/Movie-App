@@ -1,0 +1,22 @@
+Actiune:
+	National Treasure
+	The Terminator
+Animatie:
+	Isle of Dogs
+	Kung Fu Panda
+	Up
+Aventura:
+	Back to the Future
+	Star Wars: Episode IV - A New Hope
+Comedie:
+	Ghostbusters
+	Groundhog Day
+Drama:
+	Titanic
+Fantezie:
+	Highlander
+	Mortal Kombat
+Horror:
+	Predator
+Istorie:
+	Oppenheimer

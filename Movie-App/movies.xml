@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><filme>
+    <username>Admin</username>
+    <password>12345</password>
+    <film>
+        <nume>National Treasure</nume>
+        <categorie>Actiune</categorie>
+        <data>19 noiembrie 2004</data>
+        <rating>7/10</rating>
+        <id>0368891</id>
+        <regizor>Jon Turteltaub</regizor>
+        <actori>
+            <actor>Nicolas Cage</actor>
+            <actor>Diane Kruger</actor>
+            <actor>Justin Bartha</actor>
+            <actor>Sean Bean</actor>
+            <actor>Jon Voight</actor>
+            <actor>Harvey Keitel</actor>
+            <actor>Christopher Plummer</actor>
+            <actor>David Dayan Fisher</actor>
+            <actor>Stewart Finlay-McLennan</actor>
+            </actori>
+        <descriere>A historian races to find the legendary Templar Treasure before a team of mercenaries.</descriere>
+        <file>Filme\National Treasure Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Back to the Future</nume>
+        <categorie>Aventura</categorie>
+        <data>3 iulie 1985</data>
+        <rating>9/10</rating>
+        <id>0088763</id>
+        <regizor>Robert Zemeckis</regizor>
+        <actori>
+            <actor>Michael J. Fox</actor>
+            <actor>Christopher Lloyd</actor>
+            <actor>Lea Thompson</actor>
+            <actor>Crispin Glover</actor>
+            <actor>Tom Wilson</actor>
+            <actor>Claudia Wells</actor>
+            <actor>Marc McClure</actor>
+            <actor>Wendie Jo Sperber</actor>
+            <actor>George DiCenzo</actor>
+            <actor>Frances Lee McCain</actor>
+            </actori>
+            <descriere>Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown.</descriere>
+            <file>Filme\Back To The Future Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Highlander</nume>
+        <categorie>Fantezie</categorie>
+        <data>7 martie 1986</data>
+        <rating>7.5/10</rating>
+        <id>0091203</id>
+        <regizor>Russell Mulcahy</regizor>
+        <actori>
+            <actor>Christopher Lambert</actor>
+            <actor>Roxanne Hart</actor>
+            <actor>Clancy Brown</actor>
+            <actor>Sean Connery</actor>
+            <actor>Beatie Edney</actor>
+            <actor>Alan North</actor>
+            <actor>Sheila Gish</actor>
+            <actor>Jon Polito</actor>
+            <actor>Hugh Quarshie</actor>
+        </actori>
+        <descriere>An immortal Scottish swordsman must confront the last of his immortal opponents, a murderously brutal barbarian who lusts for the fabled "Prize".</descriere>
+        <file>Filme\Highlander Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Mortal Kombat</nume>
+        <categorie>Fantezie</categorie>
+        <data>13 iulie 1995</data>
+        <rating>6/10</rating>
+        <id>0113855</id>
+        <regizor>Paul W.S. Anderson</regizor>
+        <actori>
+            <actor>Robin Shou</actor>
+            <actor>Christopher Lambert</actor>
+            <actor>Linden Ashby</actor>
+            <actor>Cary-Hiroyuki Tagawa</actor>
+            <actor>Bridgette Wilson-Sampras</actor>
+            <actor>Talisa Soto</actor>
+            <actor>Trevor Goddard</actor>
+            <actor>Chris Casamassa</actor>
+            <actor>François Petit</actor>
+            <actor>Keith Cooke</actor>
+        </actori>
+        <descriere>Three unknowing martial artists are summoned to a mysterious island to compete in a tournament whose outcome will decide the fate of the world.</descriere>
+        <file>Filme\Mortal Kombat Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>The Terminator</nume>
+        <categorie>Actiune</categorie>
+        <data>26 octombrie 1984</data>
+        <rating>8/10</rating>
+        <id>0088247</id>
+        <regizor>James Cameron</regizor>
+        <actori>
+            <actor>Arnold Schwarzenegger</actor>
+            <actor>Michael Biehn</actor>
+            <actor>Linda Hamilton</actor>
+            <actor>Paul Winfield</actor>
+            <actor>Lance Henriksen</actor>
+            <actor>Rick Rossovich</actor>
+            <actor>Bess Motta</actor>
+            <actor>Earl Boen </actor>
+        </actori>
+        <descriere>A human soldier is sent from 2029 to 1984 to stop an almost indestructible cyborg killing machine, sent from the same year, which has been programmed to execute a young woman whose unborn son is the key to humanity's future salvation.</descriere>
+        <file>Filme\The Terminator Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Predator</nume>
+        <categorie>Horror</categorie>
+        <data>12 iunie 1987</data>
+        <rating>8/10</rating>
+        <id>0093773</id>
+        <regizor>John McTiernan</regizor>
+        <actori>
+            <actor>Arnold Schwarzenegger</actor>
+            <actor>Carl Weathers</actor>
+            <actor>Elpidia Carrillo</actor>
+            <actor>Bill Duke</actor>
+            <actor>Jesse Ventura</actor>
+            <actor>Sonny Landham</actor>
+            <actor>Richard Chaves</actor>
+            <actor>R.G. Armstrong</actor>
+            <actor>Shane Black</actor>
+            <actor>Kevin Peter Hall</actor>
+        </actori>
+        <descriere>A team of commandos on a mission in a Central American jungle find themselves hunted by an extraterrestrial warrior.</descriere>
+        <file>Filme\Predator Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Titanic</nume>
+        <categorie>Drama</categorie>
+        <data>19 decembrie 1997</data>
+        <rating>9/10</rating>
+        <id>0120338</id>
+        <regizor>James Cameron</regizor>
+        <actori>
+            <actor>Leonardo DiCaprio</actor>
+            <actor>Kate Winslet</actor>
+            <actor>Billy Zane</actor>
+            <actor>Kathy Bates</actor>
+            <actor>Frances Fisher</actor>
+            <actor>Gloria Stuart</actor>
+            <actor>Bill Paxton</actor>
+            <actor>Bernard Hill</actor>
+        </actori>
+        <descriere>A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.</descriere>
+        <file>Filme\Titanic Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Kung Fu Panda</nume>
+        <categorie>Animatie</categorie>
+        <data>4 iulie 2008</data>
+        <rating>8/10</rating>
+        <id>0441773</id>
+        <regizor>Mark Osborne</regizor>
+        <actori>
+            <actor>Jack Black</actor>
+            <actor>Dustin Hoffman</actor>
+            <actor>Angelina Jolie</actor>
+            <actor>Ian McShane</actor>
+            <actor>Jackie Chan</actor>
+            <actor>Seth Rogen</actor>
+            <actor>Lucy Liu</actor>
+            <actor>David Cross</actor>
+            <actor>Randall Duk Kim</actor>
+            <actor>James Hong</actor>
+            <actor>Dan Fogler</actor>
+        </actori>
+        <descriere>To everyone's surprise, including his own, Po, an overweight, clumsy panda, is chosen as protector of the Valley of Peace. His suitability will soon be tested as the valley's arch-enemy is on his way.</descriere>
+        <file>Filme\Kung Fu Panda Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Up</nume>
+        <categorie>Animatie</categorie>
+        <data>12 iunie 2009</data>
+        <rating>9/10</rating>
+        <id>1049413</id>
+        <regizor>Pete Docter</regizor>
+        <actori>
+            <actor>Edward Asner</actor>
+            <actor>Christopher Plummer</actor>
+            <actor>Jordan Nagai</actor>
+            <actor>Bob Peterson</actor>
+            <actor>Delroy Lindo</actor>
+            <actor>Jerome Ranft</actor>
+        </actori>
+        <descriere>78-year-old Carl Fredricksen travels to Paradise Falls in his house equipped with balloons, inadvertently taking a young stowaway.</descriere>
+        <file>Filme\Up Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Isle of Dogs</nume>
+        <categorie>Animatie</categorie>
+        <data>23 martie 2018</data>
+        <rating>8/10</rating>
+        <id>5104604</id>
+        <regizor>Wes Anderson</regizor>
+        <actori>
+            <actor>Bryan Cranston</actor>
+            <actor>Koyu Rankin</actor>
+            <actor>Edward Norton</actor>
+            <actor>Bob Balaban</actor>
+            <actor>Jeff Goldblum</actor>
+            <actor>Bill Murray</actor>
+            <actor>Scarlett Johansson</actor>
+            <actor>Kunichi Nomura</actor>
+        </actori>
+        <descriere>Set in Japan, Isle of Dogs follows a boy's odyssey in search of his lost dog.</descriere>
+        <file>Filme\Isle of Dogs Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Ghostbusters</nume>
+        <categorie>Comedie</categorie>
+        <data>7 iunie 1984</data>
+        <rating>8/10</rating>
+        <id>0087332</id>
+        <regizor>Ivan Reitman</regizor>
+        <actori><actor>Bill Murray</actor><actor>Dan Aykroyd</actor><actor>Sigourney Weaver</actor><actor>Harold Ramis</actor><actor>Rick Moranis</actor><actor>Annie Potts</actor><actor>William Atherton</actor><actor>Ernie Hudson</actor><actor>David Margulies</actor></actori>
+        <descriere>Three parapsychologists forced out of their university funding set up shop as a unique ghost removal service in New York City, attracting frightened yet skeptical customers.</descriere>
+        <file>Filme\Ghostbusters Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Groundhog Day</nume>
+        <categorie>Comedie</categorie>
+        <data>12 februarie 1993</data>
+        <rating>8/10</rating>
+        <id>0107048</id>
+        <regizor>Harold Ramis</regizor>
+        <actori>
+            <actor>Bill Murray</actor>
+            <actor>Andie MacDowell</actor>
+            <actor>Chris Elliott</actor>
+            <actor>Stephen Tobolowsky</actor>
+            <actor>Brian Doyle-Murray</actor>
+            <actor>Marita Geraghty</actor>
+            <actor>Angela Paton</actor>
+            <actor>Rick Ducommun</actor>
+            <actor>Rick Overton</actor>
+        </actori>
+        <descriere>A narcissistic, self-centered weatherman finds himself in a time loop on Groundhog Day.</descriere>
+        <file>Filme\Groundhog Day Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Oppenheimer</nume>
+        <categorie>Istorie</categorie>
+        <data>21 iulie 2023</data>
+        <rating>8.5/10</rating>
+        <id>15398776</id>
+        <regizor>Christopher Nolan</regizor>
+        <actori>
+            <actor>Cillian Murphy</actor>
+            <actor>Emily Blunt</actor>
+            <actor>Robert Downey Jr.</actor>
+            <actor>Alden Ehrenreich</actor>
+            <actor>Scott Grimes</actor>
+            <actor>Jason Clarke</actor>
+            <actor>Kurt Koehler</actor>
+            <actor>Tony Goldwyn</actor>
+            <actor>John Gowans</actor>
+            <actor>Macon Blair</actor>
+            <actor>James D'Arcy</actor>
+            <actor>Kenneth Branagh</actor>
+            <actor>Harry Groener</actor>
+        </actori>
+        <descriere>The story of American scientist J. Robert Oppenheimer and his role in the development of the atomic bomb.</descriere>
+        <file>Filme\Oppenheimer Trailer.mp4</file>
+    </film>
+    <film>
+        <nume>Star Wars: Episode IV - A New Hope</nume>
+        <categorie>Aventura</categorie>
+        <data>25 mai 1977</data>
+        <rating>9/10</rating>
+        <id>0076759</id>
+        <regizor>George Lucas</regizor>
+        <actori>
+            <actor>Mark Hamill</actor>
+            <actor>Harrison Ford</actor>
+            <actor>Carrie Fisher</actor>
+            <actor>Peter Cushing</actor>
+            <actor>Alec Guinness</actor>
+            <actor>Anthony Daniels</actor>
+            <actor>Kenny Baker</actor>
+            <actor>Peter Mayhew</actor>
+            <actor>David Prowse</actor>
+            <actor>Phil Brown</actor>
+            <actor>Shelagh Fraser</actor>
+        </actori>
+        <descriere>Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.</descriere>
+        <file>Filme\Star Wars Episode IV - A New Hope Trailer.mp4</file>
+    </film>
+</filme>
